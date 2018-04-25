@@ -19,7 +19,7 @@ Either open the the root folder as a project in Unity
 
 or
 
-Run the latest release
+[Run the latest release](https://github.com/McBrideMusings/Masters/releases/tag/1.0)
 
 ## How to Play
 
