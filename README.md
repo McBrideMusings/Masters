@@ -5,6 +5,8 @@ Puppetry already contends with the question of how to control other characters u
 
 To that end, I developed a video game prototype made in Unity for the Oculus and Vive. In the game, the player controls three acts of a circus. Each act features a different puppet, with a different interface based off a form of puppetry and a different circus act. The player’s goal is to keep the audience excited by performing each puppet’s act.
 
+Note - This project was developed in a private repo, so there is no commit history here. I developed the project using a private repo because I used and referenced purchased assets. I've removed the purchased assets from this version of the project, but to anyone curious about the project's history please reference the documentation.
+
 ## Getting Started
 
 ### Prerequisites
